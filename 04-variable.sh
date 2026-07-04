@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # No space before or after equal
+#Arguments
 PERSON1=$1
 PERSON2=$2
 
