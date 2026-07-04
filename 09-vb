@@ -6,5 +6,5 @@ Qualification=$3
 Husband&Lover=$4
 echo "Name: $name"
 echo "age: $age"
-echo "Qualification: $Qualifiation"
+echo "qualification: $Qualification"
 echo "husband&lover: $Husband&Lover"
