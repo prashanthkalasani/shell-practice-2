@@ -3,6 +3,6 @@
 num=10
 if [ $num -gt 5 ]; then
     echo "Greater than to 5"
-else
+else [ $num -lq 5 ]; then
     echo "Less than or equal to 5"
 fi
