@@ -3,8 +3,6 @@
 name=$1
 age=$2
 Qualification=$3
-Husband=$4
 echo "Name: $name"
 echo "age: $age"
 echo "qualification: $Qualification"
-echo "husband&lover: $Husband"
