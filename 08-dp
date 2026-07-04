@@ -2,7 +2,7 @@
 
 num=$1
 
-if [ $num -lt 5]; then
+if [ $num -lt 5 ]; then
     echo "Less than 5"
 else
     echo "Greater than or equal to 5"
